@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Hero() {
   return (
     <section className='bg-[url("/images/equipo_primera_femenino.jpeg")] bg-cover bg-top bg-no-repeat bg-fixed h-dvh flex items-end justify-start'>
