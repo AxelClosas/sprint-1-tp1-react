@@ -31,7 +31,7 @@ const NavBar = () => {
             stroke="currentColor"
             viewBox="0 0 24 24 "
             >
-            { isOpen
+            { isOpen // Renderizado condicional
               ? <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
